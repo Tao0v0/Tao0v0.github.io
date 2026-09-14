@@ -40,8 +40,9 @@ window.siteData = {
 
     bio: [
       "I am a Ph.D. student at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), Shenzhen, China. Before joining SUSTech, I received my M.Sc. degree in Electrical and Electronic Engineering from [The University of Hong Kong (HKU)](https://www.hku.hk/) and my B.Eng. degree in Information and Communication Engineering from [UESTC](https://en.uestc.edu.cn/).",
-      "My research focuses on **high-rate visual perception for dynamic and embodied systems**. I am particularly interested in combining conventional RGB cameras with event cameras to overcome the temporal limitations of frame-based vision, enabling accurate perception at arbitrary timestamps between consecutive RGB frames.",
-      "My current interests include **event-based vision, dense prediction, semantic segmentation, monocular depth estimation, and efficient embodied perception** for autonomous vehicles, drones, and robotics."
+    "My research focuses on **efficient visual perception for dynamic and resource-constrained systems**, with an emphasis on high-rate multimodal perception and deployment-oriented model optimization. On the perception side, I study how complementary sensing modalities, particularly RGB and event cameras, can enable accurate and temporally responsive scene understanding beyond the frame-rate limitations of conventional vision.",
+
+    "In parallel, I am interested in **efficient deep learning and edge AI**, including quantization-aware training, model compression, hardware-aware optimization, and deployment on resource-constrained embedded and accelerator platforms. More broadly, my research spans multimodal perception, efficient inference, and hardware-software co-design for autonomous and embodied systems."
     ]
   },
 
