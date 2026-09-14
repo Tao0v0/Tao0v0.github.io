@@ -39,10 +39,9 @@ window.siteData = {
     ],
 
     bio: [
-      "I am a Ph.D. student at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), Shenzhen, China. Before joining SUSTech, I received my M.Sc. degree in Electrical and Electronic Engineering from [The University of Hong Kong (HKU)](https://www.hku.hk/) and my B.Eng. degree in Information and Communication Engineering from [UESTC](https://en.uestc.edu.cn/).",
-    "My research focuses on **efficient visual perception for dynamic and resource-constrained systems**, with an emphasis on high-rate multimodal perception and deployment-oriented model optimization. On the perception side, I study how complementary sensing modalities, particularly RGB and event cameras, can enable accurate and temporally responsive scene understanding beyond the frame-rate limitations of conventional vision.",
-
-    "In parallel, I am interested in **efficient deep learning and edge AI**, including quantization-aware training, model compression, hardware-aware optimization, and deployment on resource-constrained embedded and accelerator platforms. More broadly, my research spans multimodal perception, efficient inference, and hardware-software co-design for autonomous and embodied systems."
+      "I am a Ph.D. student at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), Shenzhen, China, under the supervision of [Prof. Zhongrui Wang](https://scholar.google.com/citations?user=Ofl3nUsAAAAJ&hl=en) and [Prof. Xiaojuan Qi](https://scholar.google.com/citations?user=bGn0uacAAAAJ&hl=en&oi=ao). Before joining SUSTech, I received my M.Sc. degree in Electrical and Electronic Engineering from [The University of Hong Kong (HKU)](https://www.hku.hk/) and my B.Eng. degree in Information and Communication Engineering from [UESTC](https://en.uestc.edu.cn/).",
+      "My research focuses on **efficient visual perception for dynamic and resource-constrained systems**, with an emphasis on high-rate multimodal perception and deployment-oriented model optimization. On the perception side, I study how complementary sensing modalities, particularly RGB and event cameras, can enable accurate and temporally responsive scene understanding beyond the frame-rate limitations of conventional vision.",
+      "In parallel, I am interested in **efficient deep learning and edge AI**, including quantization-aware training, model compression, hardware-aware optimization, and deployment on resource-constrained embedded and accelerator platforms. More broadly, my research spans multimodal perception, efficient inference, and hardware-software co-design for autonomous and embodied systems."
     ]
   },
 
