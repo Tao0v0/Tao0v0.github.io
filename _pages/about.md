@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student at the **Southern University of Science and Technology (SUSTech)**, Shenzhen, China. 
+Before joining SUSTech, I received my M.Sc. degree in Electrical and Electronic Engineering from **The University of Hong Kong (HKU)** and my B.Eng. degree in Information and Communication Engineering from the **University of Electronic Science and Technology of China (UESTC)**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in **computer vision, event-based vision, and embodied perception**, with a particular focus on high-rate and low-latency visual perception for dynamic environments. 
+I am interested in developing vision systems that combine conventional cameras with asynchronous sensing to enable accurate and efficient perception beyond the frame-rate limitation of standard RGB cameras.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My recent research focuses on **high-rate dense prediction**, including semantic segmentation and monocular depth estimation, as well as efficient perception for autonomous vehicles, drones, and robotic platforms.
